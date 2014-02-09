@@ -32,8 +32,7 @@ public:
     void            SetSpriteRes( unsigned int x, unsigned int y );
     void            SetSpriteTexture(sf::Texture& tex);
     void            SetIntrectCount(unsigned int n);
-    template< typename T >
-    void            SetSpeed( T hspeed, T vspeed );
+    void            SetSpeed( double hspeed, double vspeed );
 
     std::string&    GetLabel()      { return this->m_label;  }
     sf::Vector2u&   GetSpriteRes()  { return this->m_spr_res;}

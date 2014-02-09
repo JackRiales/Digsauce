@@ -56,8 +56,7 @@ void Object::SetIntrectCount( unsigned int n )
     vct_sprite_rects.resize(n);
 }
 
-template< typename T >
-void Object::SetSpeed( T hspeed, T vspeed )
+void Object::SetSpeed( double hspeed, double vspeed )
 {
     m_hspeed    = hspeed;
     m_vspeed    = vspeed;

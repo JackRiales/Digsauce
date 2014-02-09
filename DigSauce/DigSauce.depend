@@ -511,3 +511,70 @@
 1388956364 source:f:\development\libraries\digsauce\src\text\textbox.cpp
 	"textbox.hpp"
 
+1391971675 source:c:\users\jack\documents\github\digsauce\digsauce\src\graphics\gfxm.cpp
+	"gfxm.hpp"
+
+1391971675 c:\users\jack\documents\github\digsauce\digsauce\src\graphics\gfxm.hpp
+	<SFML/Graphics.hpp>
+
+1391971675 source:c:\users\jack\documents\github\digsauce\digsauce\src\map\camera.cpp
+	"camera.hpp"
+
+1391971675 c:\users\jack\documents\github\digsauce\digsauce\src\map\camera.hpp
+	"../object/object.hpp"
+
+1391987207 c:\users\jack\documents\github\digsauce\digsauce\src\object\object.hpp
+	<SFML/Graphics.hpp>
+
+1391971675 source:c:\users\jack\documents\github\digsauce\digsauce\src\map\tilemap.cpp
+	"tilemap.hpp"
+
+1391971675 c:\users\jack\documents\github\digsauce\digsauce\src\map\tilemap.hpp
+	"tile.hpp"
+
+1391971675 c:\users\jack\documents\github\digsauce\digsauce\src\map\tile.hpp
+	<SFML/Graphics.hpp>
+
+1391971675 source:c:\users\jack\documents\github\digsauce\digsauce\src\object\clickable.cpp
+	"clickable.hpp"
+
+1391971675 c:\users\jack\documents\github\digsauce\digsauce\src\object\clickable.hpp
+	"object.hpp"
+
+1391971675 source:c:\users\jack\documents\github\digsauce\digsauce\src\sound\sfxm.cpp
+	"sfxm.hpp"
+
+1391971675 c:\users\jack\documents\github\digsauce\digsauce\src\sound\sfxm.hpp
+	<SFML/Audio.hpp>
+
+1391971675 source:c:\users\jack\documents\github\digsauce\digsauce\src\system\application.cpp
+	"application.hpp"
+
+1391971675 c:\users\jack\documents\github\digsauce\digsauce\src\system\application.hpp
+	<SFML/Graphics.hpp>
+
+1391971675 source:c:\users\jack\documents\github\digsauce\digsauce\src\system\inpm.cpp
+	"inpm.hpp"
+
+1391971675 c:\users\jack\documents\github\digsauce\digsauce\src\system\inpm.hpp
+	<SFML/Graphics.hpp>
+
+1391971675 source:c:\users\jack\documents\github\digsauce\digsauce\src\map\tile.cpp
+	"tile.hpp"
+
+1391987207 source:c:\users\jack\documents\github\digsauce\digsauce\src\object\object.cpp
+	"object.hpp"
+
+1391971676 source:c:\users\jack\documents\github\digsauce\digsauce\src\text\fntm.cpp
+	"fntm.hpp"
+
+1391971676 c:\users\jack\documents\github\digsauce\digsauce\src\text\fntm.hpp
+	<SFML/Graphics.hpp>
+
+1391971676 source:c:\users\jack\documents\github\digsauce\digsauce\src\text\textbox.cpp
+	"textbox.hpp"
+
+1391971676 c:\users\jack\documents\github\digsauce\digsauce\src\text\textbox.hpp
+	<SFML/Graphics.hpp>
+	<sstream>
+
