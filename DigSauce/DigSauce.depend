@@ -1,0 +1,513 @@
+# depslib dependency file v1.0
+1388956569 source:f:\development\myprojects\digsauce\main.cpp
+	"src/digsauce.hpp"
+
+1387908202 source:f:\development\myprojects\digsauce\src\application.cpp
+	"application.hpp"
+
+1387908183 f:\development\myprojects\digsauce\src\application.hpp
+	<SFML/Graphics.hpp>
+
+1387908211 source:f:\development\myprojects\digsauce\src\gfxm.cpp
+	"gfxm.hpp"
+
+1387908185 f:\development\myprojects\digsauce\src\gfxm.hpp
+	<SFML/Graphics.hpp>
+
+1387926455 source:f:\development\myprojects\digsauce\src\sfxm.cpp
+	"sfxm.hpp"
+
+1387926455 f:\development\myprojects\digsauce\src\sfxm.hpp
+	<SFML/Audio.hpp>
+
+1388956569 source:d:\development\myprojects\digsauce\main.cpp
+	"src/digsauce.hpp"
+
+1387908202 source:d:\development\myprojects\digsauce\src\application.cpp
+	"application.hpp"
+
+1387908183 d:\development\myprojects\digsauce\src\application.hpp
+	<SFML/Graphics.hpp>
+
+1387908211 source:d:\development\myprojects\digsauce\src\gfxm.cpp
+	"gfxm.hpp"
+
+1387908185 d:\development\myprojects\digsauce\src\gfxm.hpp
+	<SFML/Graphics.hpp>
+
+1388683579 source:d:\development\myprojects\digsauce\src\sfxm.cpp
+	"sfxm.hpp"
+
+1387926455 d:\development\myprojects\digsauce\src\sfxm.hpp
+	<SFML/Audio.hpp>
+
+1388683435 source:d:\development\myprojects\digsauce\src\inpm.cpp
+	"inpm.hpp"
+
+1388683434 d:\development\myprojects\digsauce\src\inpm.hpp
+	<SFML/Graphics.hpp>
+
+1388781920 source:e:\development\myprojects\digsauce\main.cpp
+	"src/map/tilemap.hpp"
+
+1387908202 source:e:\development\myprojects\digsauce\src\application.cpp
+	"application.hpp"
+
+1387908183 e:\development\myprojects\digsauce\src\application.hpp
+	<SFML/Graphics.hpp>
+
+1387908211 source:e:\development\myprojects\digsauce\src\gfxm.cpp
+	"gfxm.hpp"
+
+1387908185 e:\development\myprojects\digsauce\src\gfxm.hpp
+	<SFML/Graphics.hpp>
+
+1388683435 source:e:\development\myprojects\digsauce\src\inpm.cpp
+	"inpm.hpp"
+
+1388683434 e:\development\myprojects\digsauce\src\inpm.hpp
+	<SFML/Graphics.hpp>
+
+1388683579 source:e:\development\myprojects\digsauce\src\sfxm.cpp
+	"sfxm.hpp"
+
+1387926455 e:\development\myprojects\digsauce\src\sfxm.hpp
+	<SFML/Audio.hpp>
+
+1388768620 source:e:\development\myprojects\digsauce\src\object\object.cpp
+	"object.hpp"
+
+1388768247 e:\development\myprojects\digsauce\src\object\object.hpp
+	<SFML/Graphics.hpp>
+
+1388768620 source:d:\development\myprojects\digsauce\src\object\object.cpp
+	"object.hpp"
+
+1388768247 d:\development\myprojects\digsauce\src\object\object.hpp
+	<SFML/Graphics.hpp>
+
+1388767931 source:d:\development\myprojects\digsauce\src\object\clickable.cpp
+	"clickable.hpp"
+
+1388767931 d:\development\myprojects\digsauce\src\object\clickable.hpp
+	"object.hpp"
+
+1388949029 source:d:\development\myprojects\digsauce\src\graphics\gfxm.cpp
+	"gfxm.hpp"
+
+1388948829 d:\development\myprojects\digsauce\src\graphics\gfxm.hpp
+	<SFML/Graphics.hpp>
+
+1388949029 source:d:\development\myprojects\digsauce\src\sound\sfxm.cpp
+	"sfxm.hpp"
+
+1388948829 d:\development\myprojects\digsauce\src\sound\sfxm.hpp
+	<SFML/Audio.hpp>
+
+1388946089 source:d:\development\myprojects\digsauce\src\system\application.cpp
+	"application.hpp"
+
+1388946089 d:\development\myprojects\digsauce\src\system\application.hpp
+	<SFML/Graphics.hpp>
+
+1388683435 source:d:\development\myprojects\digsauce\src\system\inpm.cpp
+	"inpm.hpp"
+
+1388875327 d:\development\myprojects\digsauce\src\system\inpm.hpp
+	<SFML/Graphics.hpp>
+
+1388769363 source:d:\development\myprojects\digsauce\src\map\tile.cpp
+	"tile.hpp"
+
+1388779072 d:\development\myprojects\digsauce\src\map\tile.hpp
+	<SFML/Graphics.hpp>
+
+1387908211 source:e:\development\myprojects\digsauce\src\graphics\gfxm.cpp
+	"gfxm.hpp"
+
+1387908185 e:\development\myprojects\digsauce\src\graphics\gfxm.hpp
+	<SFML/Graphics.hpp>
+
+1388779186 source:e:\development\myprojects\digsauce\src\map\tile.cpp
+	"tile.hpp"
+
+1388779072 e:\development\myprojects\digsauce\src\map\tile.hpp
+	<SFML/Graphics.hpp>
+
+1388767931 source:e:\development\myprojects\digsauce\src\object\clickable.cpp
+	"clickable.hpp"
+
+1388767931 e:\development\myprojects\digsauce\src\object\clickable.hpp
+	"object.hpp"
+
+1388683579 source:e:\development\myprojects\digsauce\src\sound\sfxm.cpp
+	"sfxm.hpp"
+
+1387926455 e:\development\myprojects\digsauce\src\sound\sfxm.hpp
+	<SFML/Audio.hpp>
+
+1387908202 source:e:\development\myprojects\digsauce\src\system\application.cpp
+	"application.hpp"
+
+1387908183 e:\development\myprojects\digsauce\src\system\application.hpp
+	<SFML/Graphics.hpp>
+
+1388683435 source:e:\development\myprojects\digsauce\src\system\inpm.cpp
+	"inpm.hpp"
+
+1388683434 e:\development\myprojects\digsauce\src\system\inpm.hpp
+	<SFML/Graphics.hpp>
+
+1388781590 source:e:\development\myprojects\digsauce\src\map\tilemap.cpp
+	"tilemap.hpp"
+
+1388781582 e:\development\myprojects\digsauce\src\map\tilemap.hpp
+	"tile.hpp"
+
+1388945459 f:\development\myprojects\digsauce\src\map\tilemap.hpp
+	"tile.hpp"
+
+1388779072 f:\development\myprojects\digsauce\src\map\tile.hpp
+	<SFML/Graphics.hpp>
+
+1388949029 source:f:\development\myprojects\digsauce\src\graphics\gfxm.cpp
+	"gfxm.hpp"
+
+1388948829 f:\development\myprojects\digsauce\src\graphics\gfxm.hpp
+	<SFML/Graphics.hpp>
+
+1388779186 source:f:\development\myprojects\digsauce\src\map\tile.cpp
+	"tile.hpp"
+
+1388767931 source:f:\development\myprojects\digsauce\src\object\clickable.cpp
+	"clickable.hpp"
+
+1388767931 f:\development\myprojects\digsauce\src\object\clickable.hpp
+	"object.hpp"
+
+1388768247 f:\development\myprojects\digsauce\src\object\object.hpp
+	<SFML/Graphics.hpp>
+
+1388768620 source:f:\development\myprojects\digsauce\src\object\object.cpp
+	"object.hpp"
+
+1388949029 source:f:\development\myprojects\digsauce\src\sound\sfxm.cpp
+	"sfxm.hpp"
+
+1388948829 f:\development\myprojects\digsauce\src\sound\sfxm.hpp
+	<SFML/Audio.hpp>
+
+1388946089 source:f:\development\myprojects\digsauce\src\system\application.cpp
+	"application.hpp"
+
+1388946089 f:\development\myprojects\digsauce\src\system\application.hpp
+	<SFML/Graphics.hpp>
+
+1388683435 source:f:\development\myprojects\digsauce\src\system\inpm.cpp
+	"inpm.hpp"
+
+1388875327 f:\development\myprojects\digsauce\src\system\inpm.hpp
+	<SFML/Graphics.hpp>
+
+1388906887 source:f:\development\myprojects\digsauce\src\map\tilemap.cpp
+	"tilemap.hpp"
+
+1388900751 source:f:\development\myprojects\digsauce\src\map\camera.cpp
+	"camera.hpp"
+
+1388901249 f:\development\myprojects\digsauce\src\map\camera.hpp
+	"../object/object.hpp"
+
+1388906739 f:\development\myprojects\digsauce\src\map\tilemap.cpp
+	"tilemap.hpp"
+
+1388946677 f:\development\myprojects\digsauce\src\game\game.hpp
+	"level.hpp"
+	"../system/application.hpp"
+	"../system/inpm.hpp"
+
+1388945786 f:\development\myprojects\digsauce\src\game\level.hpp
+	"layer.hpp"
+
+1388953991 f:\development\myprojects\digsauce\src\game\layer.hpp
+	"../graphics/gfxm.hpp"
+	"../sound/sfxm.hpp"
+	"../text/fntm.hpp"
+	"../map/tilemap.hpp"
+	"../map/camera.hpp"
+
+1388949096 source:f:\development\myprojects\digsauce\src\text\fntm.cpp
+	"fntm.hpp"
+
+1388948706 f:\development\myprojects\digsauce\src\text\fntm.hpp
+	<SFML/Graphics.hpp>
+
+1388956364 source:f:\development\myprojects\digsauce\src\text\textbox.cpp
+	"textbox.hpp"
+
+1388956364 f:\development\myprojects\digsauce\src\text\textbox.hpp
+	<SFML/Graphics.hpp>
+	<sstream>
+
+1388954119 f:\development\myprojects\digsauce\src\digsauce.hpp
+	"game/game.hpp"
+	"object/object.hpp"
+	"object/clickable.hpp"
+	"text/textbox.hpp"
+
+1388954119 d:\development\myprojects\digsauce\src\digsauce.hpp
+	"game/game.hpp"
+	"object/object.hpp"
+	"object/clickable.hpp"
+	"text/textbox.hpp"
+
+1388946677 d:\development\myprojects\digsauce\src\game\game.hpp
+	"level.hpp"
+	"../system/application.hpp"
+	"../system/inpm.hpp"
+
+1388945786 d:\development\myprojects\digsauce\src\game\level.hpp
+	"layer.hpp"
+
+1388953991 d:\development\myprojects\digsauce\src\game\layer.hpp
+	"../graphics/gfxm.hpp"
+	"../sound/sfxm.hpp"
+	"../text/fntm.hpp"
+	"../map/tilemap.hpp"
+	"../map/camera.hpp"
+
+1388948706 d:\development\myprojects\digsauce\src\text\fntm.hpp
+	<SFML/Graphics.hpp>
+
+1388945459 d:\development\myprojects\digsauce\src\map\tilemap.hpp
+	"tile.hpp"
+
+1388901249 d:\development\myprojects\digsauce\src\map\camera.hpp
+	"../object/object.hpp"
+
+1388956364 d:\development\myprojects\digsauce\src\text\textbox.hpp
+	<SFML/Graphics.hpp>
+	<sstream>
+
+1388900751 source:d:\development\myprojects\digsauce\src\map\camera.cpp
+	"camera.hpp"
+
+1388906887 source:d:\development\myprojects\digsauce\src\map\tilemap.cpp
+	"tilemap.hpp"
+
+1388949096 source:d:\development\myprojects\digsauce\src\text\fntm.cpp
+	"fntm.hpp"
+
+1388956364 source:d:\development\myprojects\digsauce\src\text\textbox.cpp
+	"textbox.hpp"
+
+1389029004 source:d:\development\myprojects\digsauce\src\object\ap.cpp
+	"ai.hpp"
+
+1389028920 d:\development\myprojects\digsauce\src\object\ai.hpp
+	"object.hpp"
+	<cmath>
+
+1388956569 source:e:\development\libraries\digsauce\main.cpp
+	"src/digsauce.hpp"
+
+1389031281 e:\development\libraries\digsauce\src\digsauce.hpp
+	"game/game.hpp"
+	"object/object.hpp"
+	"object/clickable.hpp"
+	"object/ai.hpp"
+	"text/textbox.hpp"
+	"system/random.hpp"
+
+1389033775 e:\development\libraries\digsauce\src\game\game.hpp
+	"level.hpp"
+	"../system/application.hpp"
+	"../system/inpm.hpp"
+
+1388945786 e:\development\libraries\digsauce\src\game\level.hpp
+	"layer.hpp"
+
+1388953991 e:\development\libraries\digsauce\src\game\layer.hpp
+	"../graphics/gfxm.hpp"
+	"../sound/sfxm.hpp"
+	"../text/fntm.hpp"
+	"../map/tilemap.hpp"
+	"../map/camera.hpp"
+
+1388948829 e:\development\libraries\digsauce\src\graphics\gfxm.hpp
+	<SFML/Graphics.hpp>
+
+1388948829 e:\development\libraries\digsauce\src\sound\sfxm.hpp
+	<SFML/Audio.hpp>
+
+1388948706 e:\development\libraries\digsauce\src\text\fntm.hpp
+	<SFML/Graphics.hpp>
+
+1389031297 e:\development\libraries\digsauce\src\map\tilemap.hpp
+	<SFML/Graphics.hpp>
+
+1388779072 e:\development\libraries\digsauce\src\map\tile.hpp
+	<SFML/Graphics.hpp>
+
+1388901249 e:\development\libraries\digsauce\src\map\camera.hpp
+	"../object/object.hpp"
+
+1389376127 e:\development\libraries\digsauce\src\object\object.hpp
+	<SFML/Graphics.hpp>
+
+1388946089 e:\development\libraries\digsauce\src\system\application.hpp
+	<SFML/Graphics.hpp>
+
+1388875327 e:\development\libraries\digsauce\src\system\inpm.hpp
+	<SFML/Graphics.hpp>
+
+1388767931 e:\development\libraries\digsauce\src\object\clickable.hpp
+	"object.hpp"
+
+1389028920 e:\development\libraries\digsauce\src\object\ai.hpp
+	"object.hpp"
+	<cmath>
+
+1388956364 e:\development\libraries\digsauce\src\text\textbox.hpp
+	<SFML/Graphics.hpp>
+	<sstream>
+
+1389029556 e:\development\libraries\digsauce\src\system\random.hpp
+	"application.hpp"
+
+1389031209 e:\development\libraries\digsauce\src\system\physics.hpp
+	"../object/object.hpp"
+
+1388949029 source:e:\development\libraries\digsauce\src\graphics\gfxm.cpp
+	"gfxm.hpp"
+
+1388900751 source:e:\development\libraries\digsauce\src\map\camera.cpp
+	"camera.hpp"
+
+1388906887 source:e:\development\libraries\digsauce\src\map\tilemap.cpp
+	"tilemap.hpp"
+
+1388767931 source:e:\development\libraries\digsauce\src\object\clickable.cpp
+	"clickable.hpp"
+
+1389376000 source:e:\development\libraries\digsauce\src\object\object.cpp
+	"object.hpp"
+
+1388949029 source:e:\development\libraries\digsauce\src\sound\sfxm.cpp
+	"sfxm.hpp"
+
+1388946089 source:e:\development\libraries\digsauce\src\system\application.cpp
+	"application.hpp"
+
+1388683435 source:e:\development\libraries\digsauce\src\system\inpm.cpp
+	"inpm.hpp"
+
+1389029582 source:e:\development\libraries\digsauce\src\system\random.cpp
+	"random.hpp"
+
+1388949096 source:e:\development\libraries\digsauce\src\text\fntm.cpp
+	"fntm.hpp"
+
+1388956364 source:e:\development\libraries\digsauce\src\text\textbox.cpp
+	"textbox.hpp"
+
+1389029004 source:e:\development\libraries\digsauce\src\object\ai.cpp
+	"ai.hpp"
+
+1388956569 source:f:\development\libraries\digsauce\main.cpp
+	"src/digsauce.hpp"
+
+1389031281 f:\development\libraries\digsauce\src\digsauce.hpp
+	"game/game.hpp"
+	"object/object.hpp"
+	"object/clickable.hpp"
+	"object/ai.hpp"
+	"text/textbox.hpp"
+	"system/random.hpp"
+
+1389033775 f:\development\libraries\digsauce\src\game\game.hpp
+	"level.hpp"
+	"../system/application.hpp"
+	"../system/inpm.hpp"
+
+1388945786 f:\development\libraries\digsauce\src\game\level.hpp
+	"layer.hpp"
+
+1388953991 f:\development\libraries\digsauce\src\game\layer.hpp
+	"../graphics/gfxm.hpp"
+	"../sound/sfxm.hpp"
+	"../text/fntm.hpp"
+	"../map/tilemap.hpp"
+	"../map/camera.hpp"
+
+1388948829 f:\development\libraries\digsauce\src\graphics\gfxm.hpp
+	<SFML/Graphics.hpp>
+
+1388948829 f:\development\libraries\digsauce\src\sound\sfxm.hpp
+	<SFML/Audio.hpp>
+
+1388948706 f:\development\libraries\digsauce\src\text\fntm.hpp
+	<SFML/Graphics.hpp>
+
+1389031297 f:\development\libraries\digsauce\src\map\tilemap.hpp
+	<SFML/Graphics.hpp>
+
+1388901249 f:\development\libraries\digsauce\src\map\camera.hpp
+	"../object/object.hpp"
+
+1391970851 f:\development\libraries\digsauce\src\object\object.hpp
+	<SFML/Graphics.hpp>
+
+1388946089 f:\development\libraries\digsauce\src\system\application.hpp
+	<SFML/Graphics.hpp>
+
+1388875327 f:\development\libraries\digsauce\src\system\inpm.hpp
+	<SFML/Graphics.hpp>
+
+1388767931 f:\development\libraries\digsauce\src\object\clickable.hpp
+	"object.hpp"
+
+1389028920 f:\development\libraries\digsauce\src\object\ai.hpp
+	"object.hpp"
+	<cmath>
+
+1388956364 f:\development\libraries\digsauce\src\text\textbox.hpp
+	<SFML/Graphics.hpp>
+	<sstream>
+
+1389029556 f:\development\libraries\digsauce\src\system\random.hpp
+	"application.hpp"
+
+1388949029 source:f:\development\libraries\digsauce\src\graphics\gfxm.cpp
+	"gfxm.hpp"
+
+1388900751 source:f:\development\libraries\digsauce\src\map\camera.cpp
+	"camera.hpp"
+
+1388906887 source:f:\development\libraries\digsauce\src\map\tilemap.cpp
+	"tilemap.hpp"
+
+1389029004 source:f:\development\libraries\digsauce\src\object\ai.cpp
+	"ai.hpp"
+
+1388767931 source:f:\development\libraries\digsauce\src\object\clickable.cpp
+	"clickable.hpp"
+
+1388949029 source:f:\development\libraries\digsauce\src\sound\sfxm.cpp
+	"sfxm.hpp"
+
+1388946089 source:f:\development\libraries\digsauce\src\system\application.cpp
+	"application.hpp"
+
+1388683435 source:f:\development\libraries\digsauce\src\system\inpm.cpp
+	"inpm.hpp"
+
+1389029582 source:f:\development\libraries\digsauce\src\system\random.cpp
+	"random.hpp"
+
+1388949096 source:f:\development\libraries\digsauce\src\text\fntm.cpp
+	"fntm.hpp"
+
+1388956364 source:f:\development\libraries\digsauce\src\text\textbox.cpp
+	"textbox.hpp"
+

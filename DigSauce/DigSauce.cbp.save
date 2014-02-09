@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="DigSauce" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Base Source">
+				<Option output="bin/Debug/DigSauce" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option use_console_runner="0" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="sfml-graphics" />
+					<Add library="sfml-audio" />
+					<Add library="sfml-window" />
+					<Add library="sfml-system" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="main.cpp" />
+		<Unit filename="src/digsauce.hpp" />
+		<Unit filename="src/graphics/gfxm.cpp" />
+		<Unit filename="src/graphics/gfxm.hpp" />
+		<Unit filename="src/map/tile.cpp" />
+		<Unit filename="src/map/tile.hpp" />
+		<Unit filename="src/map/tilemap.cpp" />
+		<Unit filename="src/map/tilemap.hpp" />
+		<Unit filename="src/object/clickable.cpp" />
+		<Unit filename="src/object/clickable.hpp" />
+		<Unit filename="src/object/object.cpp" />
+		<Unit filename="src/object/object.hpp" />
+		<Unit filename="src/sound/sfxm.cpp" />
+		<Unit filename="src/sound/sfxm.hpp" />
+		<Unit filename="src/system/application.cpp" />
+		<Unit filename="src/system/application.hpp" />
+		<Unit filename="src/system/inpm.cpp" />
+		<Unit filename="src/system/inpm.hpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
